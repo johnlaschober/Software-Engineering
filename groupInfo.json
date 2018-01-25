@@ -5,7 +5,7 @@
         "PreferredName": "Ahmad",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": ["Product Owner"]
+        "Roles": ["Product Owner", "Developer"]
     },
     {
         "FirstName": "Ali",
@@ -29,7 +29,7 @@
         "PreferredName": "John",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": ["Product Architect"]
+        "Roles": ["Product Architect", "Developer"]
     },
     {
         "FirstName": "",
