@@ -8,12 +8,12 @@
         "Roles": ["Developer", "Tester"]
     },
     {
-        "FirstName": "",
-        "LastName": "",
-        "PreferredName": "",
+        "FirstName": "Ali",
+        "LastName": "Kazmi",
+        "PreferredName": "Ali",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": []
+        "Roles": ["Developer","Tester"]
     },
     {
         "FirstName": "",
