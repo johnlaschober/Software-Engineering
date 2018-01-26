@@ -5,7 +5,7 @@
         "PreferredName": "Ahmad",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": ["Product Owner", "Developer"]
+        "Roles": ["Developer", "Product Owner"]
     },
     {
         "FirstName": "Ali",
@@ -13,7 +13,7 @@
         "PreferredName": "Ali",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": ["Developer","Tester"]
+        "Roles": ["Developer"]
     },
     {
         "FirstName": "Cris",
@@ -21,7 +21,7 @@
         "PreferredName": "Cris",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": []
+        "Roles": ["Developer", "Scrum Master"]
     },
     {
         "FirstName": "John",
@@ -29,22 +29,22 @@
         "PreferredName": "John",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": ["Product Architect", "Developer"]
+        "Roles": ["Developer", "Product Architect"]
     },
     {
-        "FirstName": "",
-        "LastName": "",
-        "PreferredName": "",
+        "FirstName": "Nicholas",
+        "LastName": "Soto",
+        "PreferredName": "Nick",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": []
+        "Roles": ["Developer"]
     },
     {
-        "FirstName": "",
-        "LastName": "",
-        "PreferredName": "",
+        "FirstName": "Karol",
+        "LastName": "Orszulak",
+        "PreferredName": "Karl",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "Upper left side",
-        "Roles": []
+        "Roles": ["Developer"]
     }
 ]
